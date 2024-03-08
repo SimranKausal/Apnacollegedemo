@@ -1,4 +1,4 @@
 # Apnacollegedemo
 This is my first repo
 <br>
-Author - simran kaushal
+Author - simran kaushal(vips)
